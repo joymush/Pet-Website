@@ -1,0 +1,12 @@
+Body {
+    background-color: blanchedalmond;
+    font-family: sans-serif;
+}
+h1 {
+    color: cornflowerblue;
+    font: bold;
+}
+p {
+    line-height: 20px;
+    font-style: italic;
+}
