@@ -13,3 +13,7 @@ p {
 ul {
     line-height: 30px;
 }
+img {
+    width: 180px;
+    height: auto;
+}
